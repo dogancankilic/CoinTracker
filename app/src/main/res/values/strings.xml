@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coin Tracker</string>
+    <string name="onehour">1H</string>
+    <string name="BTC">BTC</string>
+    <string name="value">0.0 %</string>
+    <string name="price">3902.25</string>
+    <string name="Bitcoin">Bitcoin</string>
+    <string name="h1">1H</string>
+    <string name="d1">1D</string>
+    <string name="d7">7D</string>
+    <string name="dollar">$</string>
+    <string name="navigation_drawer_open">Navigation menu opened.</string>
+    <string name="navigation_drawer_close">Navigation menu closed.</string>
+    <string name="post_url">post_url</string>
+    <string name="post_thumbnail">post_thumbnail</string>
+    <string name="post_title">post_title</string>
+    <string name="post_author">post_author</string>
+    <string name="post_updated">post_updated</string>
+    <string name="post_id">post_id</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="content">content</string>
+    <string name="app_descrip">Provides a cryptocurrency tracker and \n news feed.</string>
+    <string name="app_credits">Thanks to CoinMarketCap for providing top 100 currencies \n https://coinmarketcap.com/</string>
+    <string name="app_privacy">For privacy policy : \n http://dogancankilic.com/coin-tracker-privacy-policy/</string>
+</resources>
