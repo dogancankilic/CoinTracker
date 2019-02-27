@@ -7,6 +7,12 @@ Mastering android architecture components by building a real-time cryptocurrency
 <img src="images/3.png" width="300" >
 <img src="images/4.png" width="300" >
 
+# Architecture
+![mvvm](https://codingwithmitch.s3.amazonaws.com/static/blog/8/mvvm_architecture.png)
+Diagram credit : codingwithmitch.com
+
+
+
 
 Cryptocurrency data via [coinmarketcap.com](https://coinmarketcap.com/) </br>
 News feed via [nytimes.com](https://www.nytimes.com/section/science)
