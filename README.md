@@ -1,6 +1,6 @@
 # CoinTracker
 Cryptocurrencies tracker
-Mastering android architecture components by building a real-time cryptocurrency coin tracking app and a new feed.
+Mastering android architecture components by building a real-time cryptocurrency coin tracking app and a news feed.
 
 <img src="images/1.png" width="300" >
 <img src="images/2.png" width="300" >
