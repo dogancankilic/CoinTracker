@@ -9,7 +9,7 @@ Mastering android architecture components by building a real-time cryptocurrency
 
 # Architecture - MVVM
 ![mvvm](https://codingwithmitch.s3.amazonaws.com/static/blog/8/mvvm_architecture.png)
-Diagram credit : codingwithmitch.com
+Diagram : Android Architecture Diagram
 
 
 
